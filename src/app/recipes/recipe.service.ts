@@ -19,14 +19,14 @@ export class RecipeService{
         new Ingredient('Chorizo', 8),
         new Ingredient('Parsley Leaves', 1),
         new Ingredient('Sherry Vinegar', 1),
-        new Ingredient('Salt', 1),
-        new Ingredient('Pepper', 1),
-        new Ingredient('Chicken', 1),
-        new Ingredient('Chicken Stock', 1),
-        new Ingredient('Onion', 1),
-        new Ingredient('Spanish Paprika', 1),
-        new Ingredient('Chickpeas', 2),
-        new Ingredient('Olive Oil', 1),
+        // new Ingredient('Salt', 1),
+        // new Ingredient('Pepper', 1),
+        // new Ingredient('Chicken', 1),
+        // new Ingredient('Chicken Stock', 1),
+        // new Ingredient('Onion', 1),
+        // new Ingredient('Spanish Paprika', 1),
+        // new Ingredient('Chickpeas', 2),
+        // new Ingredient('Olive Oil', 1),
       ])
     ,new Recipe(
       'Salmon Roasted in Butter',
@@ -35,10 +35,10 @@ export class RecipeService{
       [
         new Ingredient('Salmon Fillet', 1),
         new Ingredient('Dill', 1),
-        new Ingredient('Butter', 1),
-        new Ingredient('Salt', 1),
-        new Ingredient('Pepper', 1),
-        new Ingredient('Lemon', 1),
+        // new Ingredient('Butter', 1),
+        // new Ingredient('Salt', 1),
+        // new Ingredient('Pepper', 1),
+        // new Ingredient('Lemon', 1),
       ])
   ];
 
