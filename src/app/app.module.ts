@@ -4,9 +4,7 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 
-
 import { AppRoutingModule } from './app-routing.module';
-
 
 import { SharedModule } from './shared/shared.module';
 import { ShoppingListModule } from './shopping-list/shopping-list.module';
@@ -26,7 +24,7 @@ import { CoreModule } from './core/core.module'
     AuthModule,
     CoreModule
   ],
-  providers: [ ],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
